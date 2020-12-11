@@ -1,0 +1,9 @@
+git init 
+
+git add .
+
+git commit -m "Creacion"
+
+git remote add origin https://github.com/yanmedardo/Prueba.git
+
+git push origin master
